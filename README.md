@@ -6,8 +6,8 @@
 
 > Your all-in-one open-source starter starter kit for building Chrome extensions with Next.js and Tailwind CSS.
 
-👤 **Developer: [Anurag Deep](https://anuragdeep.com)**  
-📝 **Blog: [https://anuragdeep.com](https://anuragdeep.com)**
+👤 **Developer: [Prasoon Thakur](https://prasoonthakur.com)**  
+📝 **Blog: [https://prasoonthakur.com](https://prasoonthakur.com)**
 
 ## 🌟 Features
 - Utilizes Next.js for seamless UI development
